@@ -1,0 +1,1 @@
+mvn archeType:generate -DgroupId=com.lti.airline -DartifactId=AirlineProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
